@@ -1,10 +1,11 @@
 package com.vincent.mynote;
 
+import com.vincent.mynote.base.BaseFramentActivity;
+
 import android.os.Bundle;
-import android.app.Activity;
 import android.view.Menu;
 
-public class MainActivity extends Activity {
+public class MainActivity extends BaseFramentActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
