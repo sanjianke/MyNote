@@ -18,7 +18,7 @@ public class MainActivity extends BaseFramentActivity {
 	
 	private void ahah() {
 		// TODO Auto-generated method stub
-
+		System.out.println("saaaaaaaa");
 	}
 
 	@Override
