@@ -1,24 +1,18 @@
 package com.vincent.mynote;
 
-import com.vincent.mynote.base.BaseFramentActivity;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 
-public class MainActivity extends BaseFramentActivity {
+public class MainActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		//aaaaaaaaaaaa
 		
 		
-	}
-	
-	private void ahah() {
-		// TODO Auto-generated method stub
-		System.out.println("saaaaaaaa");
 	}
 
 	@Override
