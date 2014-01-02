@@ -11,6 +11,14 @@ public class MainActivity extends BaseFramentActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		//aaaaaaaaaaaa
+		
+		
+	}
+	
+	private void ahah() {
+		// TODO Auto-generated method stub
+
 	}
 
 	@Override
