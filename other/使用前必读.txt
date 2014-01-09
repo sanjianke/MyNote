@@ -1,1 +1,3 @@
-其他资源放在这里，比如UI的，说明文档等等
+鍏朵粬璧勬簮鏀惧湪杩欓噷锛屾瘮濡俇I鐨勶紝璇存槑鏂囨。绛夌瓑
+鎻愪氦github鐨勯『搴忥紝commit push
+鑾峰彇鐨勯『瀛︼紝fetch rebase
