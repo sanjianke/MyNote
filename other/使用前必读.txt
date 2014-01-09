@@ -1,3 +1,5 @@
 其他资源放在这里，比如UI的，说明文档等等
-提交github的顺序，commit push
-获取的顺学，fetch rebase
+每次开始写代码前，要先获取github上的代码
+注意提交的时候！！！！setting，bin gen开头的不提交
+提交代码的顺序，commit push
+获取代码的顺学，fetch rebase
