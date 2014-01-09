@@ -12,11 +12,17 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		sasas();
+		sasasa();
+	}
+
+	private void sasasa() {
+		// TODO Auto-generated method stub
+		
 	}
 
 	private void sasas() {
 		// TODO Auto-generated method stub
-		
+	//	cxxccxcxcxcx
 	}
 
 	@Override
