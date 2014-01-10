@@ -1,10 +1,8 @@
 package com.vincent.mynote.view;
 
 import com.vincent.mynote.R;
-import com.vincent.mynote.R.layout;
 import com.vincent.mynote.base.BaseActivity;
 
-import android.app.Activity;
 import android.os.Bundle;
 
 public class AddView extends BaseActivity {
