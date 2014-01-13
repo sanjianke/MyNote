@@ -4,5 +4,8 @@
     <string name="app_name">MyNote</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="a">今天去上学了</string>
+    <string name="modify">修改</string>
+    <string name="b">第一天</string>
 
 </resources>

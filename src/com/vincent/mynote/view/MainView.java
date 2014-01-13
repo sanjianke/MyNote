@@ -35,7 +35,6 @@ public class MainView extends BaseActivity {
 	@Override
 	protected void initView() {
 		// TODO Auto-generated method stub
-		
 	}
 
 	@Override

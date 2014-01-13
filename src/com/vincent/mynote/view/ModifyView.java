@@ -17,6 +17,8 @@ public class ModifyView extends BaseActivity {
 		initView();
 		init();
 	}
+	
+	
 
 	@Override
 	protected void initView() {
@@ -28,4 +30,5 @@ public class ModifyView extends BaseActivity {
 	protected void init() {
 		// TODO Auto-generated method stub
 	}
+
 }
