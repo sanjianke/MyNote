@@ -65,7 +65,6 @@
             android:hint="@string/title"
             android:textColorHint="@color/gray" >
 
-            <requestFocus />
         </EditText>
 
         <EditText
