@@ -7,5 +7,8 @@
     <string name="a">今天去上学了</string>
     <string name="modify">修改</string>
     <string name="b">第一天</string>
+    <string name="c">新建随记</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
 
 </resources>
