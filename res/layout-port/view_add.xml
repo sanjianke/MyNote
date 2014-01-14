@@ -80,7 +80,6 @@
             android:ems="10"
             android:gravity="top"
             android:hint="@string/content"
-            android:textColor="@color/gray"
             android:textColorHint="@color/gray" />
     </RelativeLayout>
 
