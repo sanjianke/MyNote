@@ -24,7 +24,7 @@
             android:layout_centerHorizontal="true"
             android:text="@string/c"
             android:textColor="@android:color/white"
-            android:textSize="22dp" />
+            android:textSize="22sp" />
 
         <ImageView
             android:id="@+id/imageView1"
@@ -53,32 +53,35 @@
 
         <EditText
             android:id="@+id/editText1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="300dp"
+            android:layout_height="20dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp"
             android:background="@android:color/white"
             android:cursorVisible="true"
-            android:editable="true"
             android:ems="10"
-            android:text="@string/title" >
+            android:gravity="top"
+            android:hint="@string/title"
+            android:textColorHint="@color/gray" >
 
             <requestFocus />
         </EditText>
 
         <EditText
             android:id="@+id/editText2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="300dp"
+            android:layout_height="330dp"
             android:layout_below="@+id/editText1"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="15dp"
             android:background="@android:color/white"
             android:cursorVisible="true"
-            android:editable="true"
             android:ems="10"
-            android:text="@string/content" />
+            android:gravity="top"
+            android:hint="@string/content"
+            android:textColor="@color/gray"
+            android:textColorHint="@color/gray" />
     </RelativeLayout>
 
 </RelativeLayout>
